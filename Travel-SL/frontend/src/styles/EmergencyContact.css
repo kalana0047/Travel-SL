@@ -1,0 +1,39 @@
+.emergency-contact {
+    background-color: #e0f1f1;
+    position: relative;
+    top: 0px;
+    max-width: 450px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.emergency-contact h2 {
+    color: #000000;
+}
+
+.emergency-contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.emergency-contact ul li {
+    margin-bottom: 5px;
+}
+.emergency-contact ul li1 {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.emergency-contact ul li1 :hover{
+    color: black;
+}
+
+.emergency-contact ul li1 a {
+    text-decoration: none;
+    color: rgb(17, 53, 214);
+}
+
+

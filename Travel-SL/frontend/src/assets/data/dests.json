@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Ella",
+      "city": "Badulla",
+      "address": "90090",
+      "price": 60,
+      "maxGroupSize": 10,
+      "desc": "Ella is a small village in the highlands of Sri Lanka which is filled with tea estates, mountains, waterfalls and of course with some good air to breath.",
+      "reviews": [],
+      "photo": "/dest-images/dest-img01.jpg",
+      "featured": true
+    }
+    
+  ]
+  

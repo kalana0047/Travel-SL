@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Toyota Allion",
+      "city": "Colombo",
+      "address": "77 Station Rd, Homagama",
+      "price": 30,
+      "maxGroupSize": 4,
+      "desc": "Welcome to ABC Rent A Car, the premier car rental service in Sri Lanka.",
+      "reviews": [],
+      "photo": "/car-images/car-img01.jpg",
+      "featured": true
+    }
+    
+  ]
+  
